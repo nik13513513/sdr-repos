@@ -1,0 +1,137 @@
+#intro
+https://pysdr.org/content/intro.html
+https://github.com/777arc/textbook
+
+//модуляции
+https://habr.com/ru/post/158493/
+
+https://www.rtl-sdr.com/gnss-sdrlib-real-time-gps-positioning-rtl-sdr/
+https://github.com/taroz/GNSS-SDRLIB/
+http://www.taroz.net/software/
+
+#gnu radio
+https://wiki.gnuradio.org/index.php/Tutorials
+
+#433
+https://github.com/GyverLibs/Gyver433
+https://github.com/merbanan/rtl_433
+https://foo-manroot.github.io/post/gnuradio/sdr/2018/01/15/gnuradio-ook-transmit.html
+https://foo-manroot.github.io/post/gnuradio/sdr/2017/11/18/gnuradio-ook.html
+https://github.com/afiskon/gnuradio-433mhz-rf-modules
+https://github.com/kevinmehall/rtlsdr-433m-sensor
+
+#LTE
+https://github.com/learning-lte
+
+//trunk
+https://github.com/DSheirer/sdrtrunk/
+
+//correctiq
+https://github.com/ghostop14/
+
+https://radioprog.ru/post/542
+http://www.radioscanner.ru/info/article604/
+https://www.programmersought.com/tag/btslab/
+
+//lime gps
+https://github.com/osqzss
+
+#inspectrum
+https://github.com/miek/inspectrum
+
+#universal radio hacker
+https://github.com/jopohl/urh
+
+#baudline
+http://www.baudline.com/screenshots.html
+
+#satsagen - spectrum analyzer
+http://www.albfer.com/satsagen-download-page/#content
+
+
+#hackrf
+https://github.com/mossmann/hackrf/wiki/Software-Support
+
+#pothos 
+https://github.com/pothosware/PothosSDR/wiki
+https://downloads.myriadrf.org/builds/PothosSDR/
+
+#dsd
+https://github.com/szechyjs/dsd
+
+#
+https://github.com/mryndzionek/composable-sdr
+
+#sdr plus plus
+https://github.com/AlexandreRouma/SDRPlusPlus
+
+https://github.com/realraum/hackrf-dvb-t
+
+#gr-gsm
+https://github.com/ptrkrysik/gr-gsm
+
+#osmocom
+https://git.osmocom.org/
+https://github.com/osmocom/gr-gsm
+https://github.com/ptrkrysik/gr-gsm
+
+https://github.com/rxseger/LTE-Cell-Scanner
+https://github.com/JiaoXianjun/LTE-Cell-Scanner
+
+https://github.com/Oros42/IMSI-catcher
+
+#hackrf links
+https://pub.nethence.com/radio/hackrf
+
+#srs ran
+https://github.com/srsran/srsRAN
+
+#openlte
+https://github.com/mgp25/OpenLTE
+http://openlte.sourceforge.net/
+
+#a1 crack
+git://git.srlabs.de/kraken
+https://www.srlabs.de/bites/decrypting-gsm
+https://github.com/joswr1ght
+https://github.com/joswr1ght/kraken
+https://github.com/b4ss3k/krakentools
+
+//gsm meter
+https://habr.com/ru/post/302212/
+
+//theory
+https://habr.com/ru/post/268127/
+https://hackware.ru/?p=13762
+https://hackware.ru/?p=12264
+https://www.rtl-sdr.com/rtl-sdr-tutorial-analyzing-gsm-with-airprobe-and-wireshark/
+
+//gms receive
+https://habr.com/ru/post/200914/
+
+//airprobe
+https://harrisonsand.com/posts/decrypting-gsm/
+https://github.com/0xh4di/GSMDecryption
+https://github.com/iamckn/airprobe
+
+//dvb t2 
+https://habr.com/ru/post/522150/
+
+//kapitanov docs
+https://habr.com/ru/post/460445/
+
+//A51 files
+https://opensource.srlabs.de/projects/a51-decrypt/files
+
+https://github.com/RUB-SysSec/mobile_sentinel
+
+//
+https://github.com/srsran/srsRAN
+
+
+http://my-gnuradio.org/2017/01/29/hackrf-kak-transiver-chast-3-peredacha-nbfm/
+https://medium.com/@rxseger/sdr-calibration-via-gsm-fcch-using-kalibrate-and-lte-cell-scanner-on-rtl-sdr-and-hackrf-193a7fb8a3eb
+http://we.easyelectronics.ru/Radio/eksperimenty-s-nb-iot-lte-nb-priem-i-detektirovanie-signala-npss-pri-pomoschi-sdr-hackrf.html
+https://pikabu.ru/story/preobrazovanie_fure_na_paltsakh_8605122#comments
+https://github.com/galilov/arduino-dtmf
+https://z4ziggy.wordpress.com/2015/05/17/sniffing-gsm-traffic-with-hackrf/
