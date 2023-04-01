@@ -36,6 +36,7 @@
 
 # useful links
 Шпаргалка по markdown: https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/
+лекции 5g: http://1234g.ru/5g/5g-video
 
 # ant-sdr
 + <https://github.com/MicroPhase/antsdr_uhd>
