@@ -3,6 +3,7 @@
 - [Field test](#field-test)
 - [LTE band calculator](#lte-band-calculator)
   - [lte](#lte)
+  - [LTE bands](#lte-bands)
   - [HackRF](#hackrf)
   - [SoapySdr](#soapysdr)
   - [NB-Iot](#nb-iot)
@@ -55,6 +56,8 @@ Iphone:
 https://www.sqimway.com/lte_band.php
 
 
+
+
 ## lte
 http://openlte.sourceforge.net/
 https://gitlab.eurecom.fr/oai
@@ -71,6 +74,16 @@ https://gitlab.eurecom.fr/oai
 | IMSI catcher | <https://github.com/Oros42/IMSI-catcher>|
 | LTE-Cell-Scanner | https://github.com/JiaoXianjun/LTE-Cell-Scanner|
 | LTE-Cell-Scanner-CSI | https://github.com/Peco602/LTE-Cell-Scanner-CSI|
+
+## LTE bands
+
+| Наименование бенда	| Частота | 
+| ----------- | ----------- |
+| Band 3 |	1800-1880 МГц |
+| Band 7 |	2620-2690 МГц |
+| Band 20 |	790-820 МГц |
+| Band 31	 |450 МГц |
+| Band 38	| 2570-2620 МГц |
 
 
 ## HackRF
