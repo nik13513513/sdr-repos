@@ -57,6 +57,7 @@ https://www.sqimway.com/lte_band.php
 
 ## lte
 http://openlte.sourceforge.net/
+https://gitlab.eurecom.fr/oai
 
 
 | link | Git |
